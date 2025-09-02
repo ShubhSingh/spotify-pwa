@@ -1,0 +1,23 @@
+{
+    "name": "Spotify PWA",
+    "short_name": "Spotify",
+    "description": "Progressive Web App for Spotify",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#1DB954",
+    "icons": [
+        {
+            "src": "images/icon-192x192.svg",
+            "sizes": "192x192",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/icon-512x512.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ]
+}
